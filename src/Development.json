@@ -1,0 +1,4 @@
+{
+    "chat_store": "chat-store",
+    "chat_get": "chat-get"
+}
